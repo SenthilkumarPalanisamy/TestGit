@@ -1,3 +1,5 @@
+/* Dummy test */
+
 package com.example.senthilkumarp.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
